@@ -9,7 +9,6 @@
 <img src="HudsonGazettephoto_website2.jpg" alt="Tamara Pico photo" width="90"/> 
 
 Tamara Pico <br/>
-
 <sub> (they/them/she/her), Postdoctoral Fellow, Division of Geological and Planetary Sciences, Caltech, ice age sea level change and landscape evolution </sub>
 
 Christine Y. Chen (she/her) 
@@ -19,6 +18,9 @@ Postdoctoral Fellow, Division of Geological and Planetary Sciences, California I
 ### Harriet Lau
 <sub> (she/her), Assistant Professor, Earth and Planetary Science, UC Berkeley, global geodynamics </sub>
 
+ Seth Olinger
+ <sub> (he/him/they/them), PhD candidate, Earth & Planetary Sciences, Harvard University,  ice shelf rifting and seismology </sub>
+ 
 ### Ery Hughes
 <sub>  she/her, Postdoctoral Fellow, Division of Geological and Planetary Sciences, Caltech, isotope geochemistry and volcanology </sub>
 
