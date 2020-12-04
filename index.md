@@ -8,7 +8,7 @@
 
 <img src="HudsonGazettephoto_website2.jpg" alt="Tamara Pico photo" width="90"/> 
 
-Tamara Pico \
+Tamara Pico </br>
 
 <sub> (they/them/she/her), Postdoctoral Fellow, Division of Geological and Planetary Sciences, Caltech, ice age sea level change and landscape evolution </sub>
 
