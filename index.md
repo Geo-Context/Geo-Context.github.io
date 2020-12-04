@@ -29,5 +29,9 @@ Ery Hughes <br/>
 Jacky Austermann <br/>
 <sub> (she/her), Assistant Professor, Lamont-Doherty Earth Observatory, Columbia University, sea level change and geodynamics </sub>
 
-Marisa Borreggine (she/her), PhD candidate, Earth & Planetary Sciences, Harvard University, paleoceanography and human migration
+Claire Jasper <br/>
+<sub>(she/her), graduate student, Lamont-Doherty Earth Observatory, Columbia University, Antarctica, ice rafted debris, sediment cores, machine learning </sub>
+
+Marisa Borreggine <br/>
+<sub>(she/her), PhD candidate, Earth & Planetary Sciences, Harvard University, paleoceanography and human migration </sub>
 
