@@ -9,6 +9,10 @@
 <img src="HudsonGazettephoto_website2.jpg" alt="Tamara Pico photo" width="90"/> 
 ### Tamara Pico 
 
+<img src="Jacky1.png" alt="Jacky Austermann photo" width="90"/> 
+### Jacky Austermann
+(she/her), Assistant Professor, Lamont-Doherty Earth Observatory, Columbia University, sea level change and geodynamics
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
