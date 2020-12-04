@@ -10,6 +10,7 @@
 Tamara Pico 
 <sub> (they/them/she/her), Postdoctoral Fellow, Division of Geological and Planetary Sciences, Caltech, ice age sea level change and landscape evolution </sub>
 
+<img src="me_photo1.jpg" alt="Harriet Lau photo" width="90"/> 
 ### Harriet Lau]
 <sub> (she/her), Assistant Professor, Earth and Planetary Science, UC Berkeley, global geodynamics </sub>
 
