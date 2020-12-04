@@ -7,18 +7,18 @@
 ## The Team
 
 <img src="HudsonGazettephoto_website2.jpg" alt="Tamara Pico photo" width="90"/> 
-### Tamara Pico 
+Tamara Pico 
 <sub> (they/them/she/her), Postdoctoral Fellow, Division of Geological and Planetary Sciences, Caltech, ice age sea level change and landscape evolution </sub>
 
 ### Harriet Lau]
-(she/her), Assistant Professor, Earth and Planetary Science, UC Berkeley, global geodynamics
+<sub> (she/her), Assistant Professor, Earth and Planetary Science, UC Berkeley, global geodynamics </sub>
 
 ### Ery Hughes
-she/her, Postdoctoral Fellow, Division of Geological and Planetary Sciences, Caltech, isotope geochemistry and volcanology
+<sub>  she/her, Postdoctoral Fellow, Division of Geological and Planetary Sciences, Caltech, isotope geochemistry and volcanology </sub>
 
 <img src="Jacky1.png" alt="Jacky Austermann photo" width="90"/> 
 ### Jacky Austermann
-(she/her), Assistant Professor, Lamont-Doherty Earth Observatory, Columbia University, sea level change and geodynamics
+<sub> (she/her), Assistant Professor, Lamont-Doherty Earth Observatory, Columbia University, sea level change and geodynamics </sub>
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
