@@ -8,12 +8,15 @@
 
 <img src="HudsonGazettephoto_website2.jpg" alt="Tamara Pico photo" width="90"/> 
 
-Tamara Pico </br>
+Tamara Pico <br/>
 
 <sub> (they/them/she/her), Postdoctoral Fellow, Division of Geological and Planetary Sciences, Caltech, ice age sea level change and landscape evolution </sub>
 
+Christine Y. Chen (she/her) 
+Postdoctoral Fellow, Division of Geological and Planetary Sciences, California Institute of Technology, quaternary geology and geochronology
+
 <img src="me_photo1.jpg" alt="Harriet Lau photo" width="90"/> 
-### Harriet Lau]
+### Harriet Lau
 <sub> (she/her), Assistant Professor, Earth and Planetary Science, UC Berkeley, global geodynamics </sub>
 
 ### Ery Hughes
