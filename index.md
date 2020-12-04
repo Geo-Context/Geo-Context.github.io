@@ -29,9 +29,11 @@ Ery Hughes <br/>
 Jacky Austermann <br/>
 <sub> (she/her), Assistant Professor, Lamont-Doherty Earth Observatory, Columbia University, sea level change and geodynamics </sub>
 
+<img src="squareclaire.jpeg" alt="Claire Jasper photo" width="90"/> 
 Claire Jasper <br/>
 <sub>(she/her), graduate student, Lamont-Doherty Earth Observatory, Columbia University, Antarctica, ice rafted debris, sediment cores, machine learning </sub>
 
+<img src="Marisa_headshotBnW_square.png" alt="Marisa Borreggine photo" width="90"/>
 Marisa Borreggine <br/>
 <sub>(she/her), PhD candidate, Earth & Planetary Sciences, Harvard University, paleoceanography and human migration </sub>
 
