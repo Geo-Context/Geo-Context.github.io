@@ -8,7 +8,7 @@
 
 <img src="HudsonGazettephoto_website2.jpg" alt="Tamara Pico photo" width="90"/> 
 ### Tamara Pico 
-(they/them/she/her), Postdoctoral Fellow, Caltech, ice age sea level change and landscape evolution
+<sub> (they/them/she/her), Postdoctoral Fellow, Caltech, ice age sea level change and landscape evolution </sub>
 
 <img src="Jacky1.png" alt="Jacky Austermann photo" width="90"/> 
 ### Jacky Austermann
