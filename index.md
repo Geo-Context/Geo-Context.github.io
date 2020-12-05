@@ -1,6 +1,11 @@
 # Welcome to GeoContext!
 
 ## Our Goal
+Creating a diverse new generation of geoscientists begins at the training stage. In undergraduate courses, early geoscientists are often glorified and discussed in terms of intellectual achievements, strong personalities, or heated debates. Nevertheless, the social and political backdrop for these scientists was complicated: the development of geology as a discipline is intertwined with the history of imperialism, colonialism, and Westward Expansion in the United States. Such topics are rarely discussed in current geoscience courses, and continuing to train the next generation of geoscientists without regard to this history perpetuates the same practices of exclusion. This is particularly important as co-production — developing knowledge and science together with local communities — is increasingly gaining attention and recognition today. Now, more than ever, there is a real need for historical literacy to be an integral part of STEM curriculum and training.
+
+Here we present a resource to assist educators in integrating topics on racism, colonialism, imperialism, environmental damage, and exploitation of natural resources into subjects commonly taught within geoscience departments. This resource consists of modular lecture slides with accompanying lecture notes, suggested discussion questions, and further reading to promote in-class engagement. This resource is freely available and geared towards flexibility so that rather than being a standalone course, it allows educators to pick and choose content for incorporation into their existing lectures. Topics available include plate tectonics, geomorphology, glaciology, and volcanology. For each topic, we discuss the imperialist nature of the sciences in the 19th and 20th century and link it to social inequalities today, with a particular focus on the overlooked contributions of early geology to scientific racism.
+
+Ultimately, we hope this work ignites energy towards a reimagined curriculum in the Earth sciences. This curriculum incorporates a social context for the geosciences, past and present, in order to provide a holistic base of knowledge that empowers students to recognize and navigate existing structures of oppression within geoscience and society at large.
 
 ## Teaching Resources
 
