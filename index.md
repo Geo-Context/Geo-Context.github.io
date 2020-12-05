@@ -14,10 +14,10 @@ Ultimately, we hope this work ignites energy towards a reimagined curriculum in 
 ## The Team
 
 <img src="HudsonGazettephoto_website2.jpg" alt="Tamara Pico photo" width="90"/> 
-
 Tamara Pico <br/>
 <sub> (they/them/she/her), Postdoctoral Fellow, Division of Geological and Planetary Sciences, Caltech, ice age sea level change and landscape evolution </sub>
 
+<img src="RedwoodCity_Bay_square_800px.jpg" alt="Christine Chen photo" width="90"/> 
 Christine Y. Chen  <br/>
 <sub> (she/her), Postdoctoral Fellow, Division of Geological and Planetary Sciences, California Institute of Technology, quaternary geology and geochronology </sub>
 
