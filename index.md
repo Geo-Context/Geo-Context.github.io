@@ -1,4 +1,4 @@
-<img src="GeoContext_transparent.png" alt="geocontext logo" width="150"/> # Welcome to GeoContext! 
+ # Welcome to GeoContext! 
 
 
 
