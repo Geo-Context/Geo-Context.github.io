@@ -7,7 +7,9 @@ Here we present a resource to assist educators in integrating topics on racism, 
 
 Ultimately, we hope this work ignites energy towards a reimagined curriculum in the Earth sciences. This curriculum incorporates a social context for the geosciences, past and present, in order to provide a holistic base of knowledge that empowers students to recognize and navigate existing structures of oppression within geoscience and society at large.
 
-## Teaching Resources
+## Teaching Modules
+
+## Teaching Philosophy
 
 ## The Team
 
