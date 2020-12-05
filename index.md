@@ -1,4 +1,4 @@
- # Welcome to GeoContext! 
+# Welcome to GeoContext! 
 
 
 
