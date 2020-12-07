@@ -44,7 +44,7 @@ economic, and social values of the scientific community control the entire scien
 ## The Team
 
 <img src="HudsonGazettephoto.jpg" alt="Tamara Pico photo" width="90"/> Tamara Pico <br/>
-<sub> (they/them/she/her), Postdoctoral Fellow, Division of Geological and Planetary Sciences, Caltech, ice age sea level change and landscape evolution </sub>
+<sub> (they/them/she/her), Postdoctoral Fellow, Division of Geological and Planetary Sciences, Caltech, ice age sea level change </sub>
 
 <img src="RedwoodCity_Bay_square_800px.jpg" alt="Christine Chen photo" width="90"/> Christine Y. Chen  <br/>
 <sub> (she/her), Postdoctoral Fellow, Division of Geological and Planetary Sciences, California Institute of Technology, quaternary geology and geochronology </sub>
@@ -54,7 +54,7 @@ economic, and social values of the scientific community control the entire scien
 
 
 <img src="wesley.jpg" alt="Wesley Wiggins photo" width="90"/> John Wesley Wiggins <br/>
-<sub> (he/him), Undergraduate Student, Department of Geosciences, Princeton University </sub>
+<sub> (he/him), Undergraduate Student, Department of Geosciences, Princeton University, coastal science and oceanography </sub>
 
 <img src="seth.jpg" alt="Seth Olinger photo" width="90"/> Seth Olinger <br/>
  <sub> (he/him/they/them), PhD candidate, Earth & Planetary Sciences, Harvard University,  ice shelf rifting and seismology </sub>
