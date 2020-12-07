@@ -13,6 +13,8 @@ Ultimately, we hope this work ignites energy towards a reimagined curriculum in 
 
 ## Teaching Philosophy
 
+<a href="GeoContext/GeoContext - Teaching Philosophy.pdf" download>Click to Download</a>
+
 ## The Team
 
 <img src="HudsonGazettephoto.jpg" alt="Tamara Pico photo" width="90"/> Tamara Pico <br/>
