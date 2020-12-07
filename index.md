@@ -11,13 +11,13 @@ Ultimately, we hope this work ignites energy towards a reimagined curriculum in 
 
 ## Teaching Modules
 
-#### Oceanography and the Slave Trade
-<a href="GeoContext/GeoContext - Oceanography and the Slave Trade.pptx" download>PowerPoint</a>
+#### - Oceanography and the Slave Trade
+<a href="GeoContext/GeoContext - Oceanography and the Slave Trade.pptx" download>PowerPoint</a> <br/>
 <a href="GeoContext/GeoContext - Oceanography and the Slave Trade.pdf" download>Companion Document</a>
 #### Landscapes and Scientific Racism
 #### Isostasy and Colonialism
 #### Glaciology, Race, and Masculinity
-<a href="GeoContext/GeoContext - Glaciology, Race, and Masculinity.pptx" download>PowerPoint</a>
+<a href="GeoContext/GeoContext - Glaciology, Race, and Masculinity.pptx" download>PowerPoint</a> <br/>
 <a href="GeoContext/GeoContext - Glaciology, Race, and Masculinity.pdf" download>Companion Document</a>
 
 ## Teaching Philosophy
