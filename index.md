@@ -13,19 +13,19 @@ Ultimately, we hope this work ignites energy towards a reimagined curriculum in 
 
 * Oceanography and the Slave Trade <br/>
 <a href="GeoContext/GeoContext - Oceanography and the Slave Trade.pptx" download>PowerPoint Slides</a> <br/>
-<a href="GeoContext/GeoContext - Oceanography and the Slave Trade.pdf" download>Companion Document</a>
+<a href="GeoContext/GeoContext - Oceanography and the Slave Trade.pdf" download>Companion Document</a> <br/>
 * Landscapes and Scientific Racism <br/>
 <a href="GeoContext/GeoContext - Landscapes.pptx" download>PowerPoint Slides</a> <br/>
-<a href="GeoContext/GeoContext - Landscapes.pdf" download>Companion Document</a>
-#### Isostasy and Colonialism
+<a href="GeoContext/GeoContext - Landscapes.pdf" download>Companion Document</a> <br/>
+* Isostasy and Colonialism <br/>
 <a href="GeoContext/GeoContext - Isostasy.pptx" download>PowerPoint Slides</a> <br/>
-<a href="GeoContext/GeoContext - Isostasy.pdf" download>Companion Document</a>
-#### Glaciology, Race, and Masculinity
+<a href="GeoContext/GeoContext - Isostasy.pdf" download>Companion Document</a> <br/>
+* Glaciology, Race, and Masculinity <br/>
 <a href="GeoContext/GeoContext - Glaciology, Race, and Masculinity.pptx" download>PowerPoint</a> <br/>
-<a href="GeoContext/GeoContext - Glaciology, Race, and Masculinity.pdf" download>Companion Document</a>
-#### Land Grab Universities
+<a href="GeoContext/GeoContext - Glaciology, Race, and Masculinity.pdf" download>Companion Document</a> <br/>
+* Land Grab Universities <br/>
 <a href="GeoContext/GeoContext - Land Grab Universities.pptx" download>PowerPoint Slides</a> <br/>
-<a href="GeoContext/GeoContext - Land Grab Universities.pdf" download>Companion Document</a>
+<a href="GeoContext/GeoContext - Land Grab Universities.pdf" download>Companion Document</a> <br/>
 
 ## Teaching Philosophy
 
