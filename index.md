@@ -12,22 +12,32 @@ Ultimately, we hope this work ignites energy towards a reimagined curriculum in 
 ## Teaching Modules
 
 #### Oceanography and the Slave Trade
-<a href="GeoContext/GeoContext - Oceanography and the Slave Trade.pptx" download>PowerPoint</a> <br/>
+<a href="GeoContext/GeoContext - Oceanography and the Slave Trade.pptx" download>PowerPoint Slides</a> <br/>
 <a href="GeoContext/GeoContext - Oceanography and the Slave Trade.pdf" download>Companion Document</a>
 #### Landscapes and Scientific Racism
-<a href="GeoContext/GeoContext - Landscapes.pptx" download>PowerPoint</a> <br/>
+<a href="GeoContext/GeoContext - Landscapes.pptx" download>PowerPoint Slides</a> <br/>
 <a href="GeoContext/GeoContext - Landscapes.pdf" download>Companion Document</a>
 #### Isostasy and Colonialism
-<a href="GeoContext/GeoContext - Isostasy.pptx" download>PowerPoint</a> <br/>
+<a href="GeoContext/GeoContext - Isostasy.pptx" download>PowerPoint Slides</a> <br/>
 <a href="GeoContext/GeoContext - Isostasy.pdf" download>Companion Document</a>
 #### Glaciology, Race, and Masculinity
 <a href="GeoContext/GeoContext - Glaciology, Race, and Masculinity.pptx" download>PowerPoint</a> <br/>
 <a href="GeoContext/GeoContext - Glaciology, Race, and Masculinity.pdf" download>Companion Document</a>
 #### Land Grab Universities
-<a href="GeoContext/GeoContext - Land Grab Universities.pptx" download>PowerPoint</a> <br/>
+<a href="GeoContext/GeoContext - Land Grab Universities.pptx" download>PowerPoint Slides</a> <br/>
 <a href="GeoContext/GeoContext - Land Grab Universities.pdf" download>Companion Document</a>
 
 ## Teaching Philosophy
+
+Through storytelling, our aim is to illustrate how geoscience is implicated in colonial and
+imperialist projects. The teaching approach that drove the creation of these modules is informed by feminist
+philosophy of science and critical race theory. In the material presented, we attempt to decenter
+the dominant narrative about the history of geoscience, and geoscience practices, past and
+present. Feminist standpoint theory posits that knowledge is socially situated (Haraway 1988). In
+contrast to a “scientific objectivity” that is assumed to be value-neutral, “strong objectivity”
+requires us to understand the practice of science in a social context, where the political,
+economic, and social values of the scientific community control the entire scientific process
+(Harding 1992).
 
 <a href="GeoContext/GeoContext - Teaching Philosophy.pdf" download>Click to Download</a>
 
