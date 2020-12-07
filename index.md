@@ -11,10 +11,10 @@ Ultimately, we hope this work ignites energy towards a reimagined curriculum in 
 
 ## Teaching Modules
 
-#### Oceanography and the Slave Trade
+* Oceanography and the Slave Trade
 <a href="GeoContext/GeoContext - Oceanography and the Slave Trade.pptx" download>PowerPoint Slides</a> <br/>
 <a href="GeoContext/GeoContext - Oceanography and the Slave Trade.pdf" download>Companion Document</a>
-#### Landscapes and Scientific Racism
+* Landscapes and Scientific Racism
 <a href="GeoContext/GeoContext - Landscapes.pptx" download>PowerPoint Slides</a> <br/>
 <a href="GeoContext/GeoContext - Landscapes.pdf" download>Companion Document</a>
 #### Isostasy and Colonialism
