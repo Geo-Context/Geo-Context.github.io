@@ -27,6 +27,7 @@ Christine Y. Chen  <br/>
 Harriet Lau <br/>
 <sub> (she/her), Assistant Professor, Earth and Planetary Science, UC Berkeley, global geodynamics </sub>
 
+
 <img src="wesley.jpg" alt="Wesley Wiggins photo" width="90"/> John Wesley Wiggins <br/>
 <sub> (he/him), Undergraduate Student, Department of Geosciences, Princeton University </sub>
 
