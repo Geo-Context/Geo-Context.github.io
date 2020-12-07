@@ -27,7 +27,10 @@ Christine Y. Chen  <br/>
 Harriet Lau <br/>
 <sub> (she/her), Assistant Professor, Earth and Planetary Science, UC Berkeley, global geodynamics </sub>
 
-<img src="photo-placeholder-icon-17.jpg" alt="placeholder photo" width="90"/> Seth Olinger <br/>
+<img src="wesley.jpg" alt="Wesley Wiggins photo" width="90"/> John Wesley Wiggins <br/>
+<sub> (he/him), Undergraduate Student, Department of Geosciences, Princeton University </sub>
+
+<img src="seth.jpg" alt="Seth Olinger photo" width="90"/> Seth Olinger <br/>
  <sub> (he/him/they/them), PhD candidate, Earth & Planetary Sciences, Harvard University,  ice shelf rifting and seismology </sub>
  
 <img src="F5A493B3-1FE9-4D0B-8269-25201CA0901B.jpeg" alt="Ery Hughes photo" width="90"/> 
