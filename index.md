@@ -54,7 +54,7 @@ economic, and social values of the scientific community control the entire scien
 
 
 <img src="wesley-02.jpg" alt="Wesley Wiggins photo" width="90"/> John Wesley Wiggins <br/>
-<sub> (he/him), Undergraduate Student, Department of Geosciences, Princeton University, coastal science and oceanography </sub>
+<sub> (he/him), Undergraduate Student (Class of 2021), Department of Geosciences, Princeton University, coastal science and oceanography </sub>
 
 <img src="seth_sq.jpg" alt="Seth Olinger photo" width="90"/> Seth Olinger <br/>
  <sub> (he/him/they/them), PhD candidate, Earth & Planetary Sciences, Harvard University,  ice shelf rifting and seismology </sub>
