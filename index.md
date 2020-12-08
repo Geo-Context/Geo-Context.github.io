@@ -53,7 +53,7 @@ economic, and social values of the scientific community control the entire scien
 <sub> (she/her), Assistant Professor, Earth and Planetary Science, UC Berkeley, global geodynamics </sub>
 
 
-<img src="wesley_sq-02.jpg" alt="Wesley Wiggins photo" width="90"/> John Wesley Wiggins <br/>
+<img src="wesley-02.jpg" alt="Wesley Wiggins photo" width="90"/> John Wesley Wiggins <br/>
 <sub> (he/him), Undergraduate Student, Department of Geosciences, Princeton University, coastal science and oceanography </sub>
 
 <img src="seth_sq.jpg" alt="Seth Olinger photo" width="90"/> Seth Olinger <br/>
