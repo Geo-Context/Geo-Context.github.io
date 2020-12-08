@@ -53,7 +53,7 @@ economic, and social values of the scientific community control the entire scien
 <sub> (she/her), Assistant Professor, Earth and Planetary Science, UC Berkeley, global geodynamics </sub>
 
 
-<img src="wesley_sq.jpg" alt="Wesley Wiggins photo" width="120"/> John Wesley Wiggins <br/>
+<img src="wesley_sq-02.jpg" alt="Wesley Wiggins photo" width="120"/> John Wesley Wiggins <br/>
 <sub> (he/him), Undergraduate Student, Department of Geosciences, Princeton University, coastal science and oceanography </sub>
 
 <img src="seth_sq.jpg" alt="Seth Olinger photo" width="90"/> Seth Olinger <br/>
@@ -62,7 +62,7 @@ economic, and social values of the scientific community control the entire scien
 <img src="F5A493B3-1FE9-4D0B-8269-25201CA0901B.jpeg" alt="Ery Hughes photo" width="90"/> Ery Hughes <br/>
 <sub>  she/her, Postdoctoral Fellow, Division of Geological and Planetary Sciences, Caltech, isotope geochemistry and volcanology </sub>
 
-<img src="Jacky1_sq.png" alt="Jacky Austermann photo" width="90"/> Jacky Austermann <br/>
+<img src="Jacky1_sq-01.png" alt="Jacky Austermann photo" width="90"/> Jacky Austermann <br/>
 <sub> (she/her), Assistant Professor, Lamont-Doherty Earth Observatory, Columbia University, sea level change and geodynamics </sub>
 
 <img src="squareclaire.jpeg" alt="Claire Jasper photo" width="90"/> 
