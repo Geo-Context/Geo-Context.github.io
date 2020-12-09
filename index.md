@@ -20,6 +20,9 @@ Ultimately, we hope this work ignites energy towards a reimagined curriculum in 
 * **Isostasy and Colonialism** <br/>
 <a href="GeoContext/GeoContext - Isostasy.pptx" download>PowerPoint Slides</a> <br/>
 <a href="GeoContext/GeoContext - Isostasy.pdf" download>Companion Document</a> <br/> <br/>
+* **Meteorites and Museum Legacies** <br/>
+<a href="GeoContext/GeoContext - Meteorites.pptx" download>PowerPoint</a> <br/>
+<a href="GeoContext/GeoContext - Meteorites.pdf" download>Companion Document</a> <br/> <br/>
 * **Glaciology, Race, and Masculinity** <br/>
 <a href="GeoContext/GeoContext - Glaciology, Race, and Masculinity.pptx" download>PowerPoint</a> <br/>
 <a href="GeoContext/GeoContext - Glaciology, Race, and Masculinity.pdf" download>Companion Document</a> <br/> <br/>
