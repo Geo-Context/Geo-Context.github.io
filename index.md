@@ -1,6 +1,14 @@
 # Welcome to GeoContext! 
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1YZHSGQYW1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-1YZHSGQYW1');
+</script>
 
 ## Our Goal
 Creating a diverse new generation of geoscientists begins at the training stage. In undergraduate courses, early geoscientists are often glorified and discussed in terms of intellectual achievements, strong personalities, or heated debates. Nevertheless, the social and political backdrop for these scientists was complicated: the development of geology as a discipline is intertwined with the history of imperialism, colonialism, and Westward Expansion in the United States. Such topics are rarely discussed in current geoscience courses, and continuing to train the next generation of geoscientists without regard to this history perpetuates the same practices of exclusion. This is particularly important as co-production — developing knowledge and science together with local communities — is increasingly gaining attention and recognition today. Now, more than ever, there is a real need for historical literacy to be an integral part of STEM curriculum and training.
