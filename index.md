@@ -20,7 +20,12 @@ Ultimately, we hope this work ignites energy towards a reimagined curriculum in 
 ## Teaching Modules
 
 * **Oceanography and the Slave Trade** <br/>
-<a href="GeoContext/GeoContext - Oceanography and the Slave Trade.pptx" download>PowerPoint Slides</a> <br/>
+<a href="GeoContext/GeoContext - Oceanography and the Slave Trade.pptx" download>PowerPoint Slides</a> <br/> ga('send', {
+  hitType: 'event',
+  eventCategory: 'ppt',
+  eventAction: 'download',
+  eventLabel: 'Oceanography ppt'
+});
 <a href="GeoContext/GeoContext - Oceanography and the Slave Trade.pdf" download>Companion Document</a> <br/> <br/>
 * **Landscapes and Scientific Racism** <br/>
 <a href="GeoContext/GeoContext - Landscapes.pptx" download>PowerPoint Slides</a> <br/>
