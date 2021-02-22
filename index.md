@@ -92,5 +92,5 @@ Marisa Borreggine <br/>
 
 ## Get Involved!
 
-Would you like to stay up to date on new teaching modules? Are you interested in contributing a module of your own? Do you have feedback on our work? Connect with us <a href="https://forms.gle/P3hRVJpK5w1hmXx98" target="_blank"> here </a> by filling out the last three prompts on feedback and module ideas!
+Would you like to stay up to date on new teaching modules? Are you interested in contributing a module of your own? Do you have feedback on our work? Connect with us <a href="https://forms.gle/P3hRVJpK5w1hmXx98" target="_blank"> here </a> !
 
