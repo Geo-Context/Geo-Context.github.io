@@ -101,3 +101,9 @@ Marisa Borreggine <br/>
 
 Would you like to stay up to date on new teaching modules? Are you interested in contributing a module of your own? Do you have feedback on our work? Connect with us <a href="https://forms.gle/P3hRVJpK5w1hmXx98" target="_blank"> here </a> !
 
+## In the press
+
+EOS article: "Teaching Geoscience History In Context" by Kimberly Cartier. Interview with GeoContext Team <a href="https://eos.org/articles/teaching-geoscience-history-in-context> Read here!  </a>  
+
+Interview with Tamara Pico at the URGE (Unlearning Racism in Geoscience) Reading Group: <a href="https://www.youtube.com/watch?v=TgH_sgPi5Do" target="_blank"> Watch here!  </a>  
+
