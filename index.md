@@ -103,7 +103,7 @@ Would you like to stay up to date on new teaching modules? Are you interested in
 
 ## In the press
 
-EOS article: "Teaching Geoscience History In Context" by Kimberly Cartier. Interview with GeoContext Team <a href="https://eos.org/articles/teaching-geoscience-history-in-context> Read here!  </a>  
+EOS article: "Teaching Geoscience History In Context" by Kimberly Cartier. Interview with GeoContext Team <a href="https://eos.org/articles/teaching-geoscience-history-in-context>" target="_blank"> Read here!  </a>  
 
 Interview with Tamara Pico at the URGE (Unlearning Racism in Geoscience) Reading Group: <a href="https://www.youtube.com/watch?v=TgH_sgPi5Do" target="_blank"> Watch here!  </a>  
 
