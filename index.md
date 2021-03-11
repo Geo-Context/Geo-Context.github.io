@@ -87,7 +87,11 @@ economic, and social values of the scientific community control the entire scien
 
 <img src="squareclaire.jpeg" alt="Claire Jasper photo" width="90"/> 
 Claire Jasper <br/>
-<sub>(she/her), graduate student, Lamont-Doherty Earth Observatory, Columbia University, Antarctica, ice rafted debris, sediment cores, machine learning </sub>
+<sub>(she/her), Graduate Student, Lamont-Doherty Earth Observatory, Columbia University, Antarctica, ice rafted debris, sediment cores, machine learning </sub>
+
+<img src="linkedin_pic.png" width="90"/>
+Casey E. Brayton <br/>
+<sub>(she/they),Graduate Student, Department of Earth and Environmental Sciences, Columbia University, Arctic coastal change and glaciology </sub>
 
 <img src="Marisa_headshotBnW_square.png" alt="Marisa Borreggine photo" width="90"/>
 Marisa Borreggine <br/>
