@@ -101,7 +101,7 @@ Marisa Borreggine <br/>
 
 Would you like to stay up to date on new teaching modules? Do you have feedback on our work? Connect with us <a href="https://forms.gle/P3hRVJpK5w1hmXx98" target="_blank"> here </a> !
 
-If you interested in helping to contribute a module of your own, sigh up <a href="https://forms.gle/Ba1mMoaGvkUPq7xM6" target="_blank"> here </a> !
+If you interested in helping to contribute a module of your own, sign up <a href="https://forms.gle/Ba1mMoaGvkUPq7xM6" target="_blank"> here </a> !
 
 ## In the press
 
