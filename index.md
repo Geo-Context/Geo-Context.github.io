@@ -64,7 +64,7 @@ economic, and social values of the scientific community control the entire scien
 ## The Team
 
 <img src="HudsonGazettephoto_sq.jpg" alt="Tamara Pico photo" width="90"/> Tamara Pico <br/>
-<sub> (they/them/she/her), Assistant Professor, Earth & Planetary Sciences, UC Santa Cruz, ice age sea level change </sub>
+<sub> (she/her/they/them), Assistant Professor, Earth & Planetary Sciences, UC Santa Cruz, ice age sea level change </sub>
 
 <img src="RedwoodCity_Bay_square_800px.jpg" alt="Christine Chen photo" width="90"/> Christine Y. Chen  <br/>
 <sub> (she/her), Postdoctoral Fellow, Lawrence Livermore National Laboratories, quaternary geology and geochronology </sub>
