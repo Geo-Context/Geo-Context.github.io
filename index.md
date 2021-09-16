@@ -64,14 +64,13 @@ economic, and social values of the scientific community control the entire scien
 ## The Team
 
 <img src="HudsonGazettephoto_sq.jpg" alt="Tamara Pico photo" width="90"/> Tamara Pico <br/>
-<sub> (they/them/she/her), Postdoctoral Fellow, Division of Geological and Planetary Sciences, Caltech, ice age sea level change </sub>
+<sub> (they/them/she/her), Assistant Professor, Earth & Planetary Sciences, UC Santa Cruz, ice age sea level change </sub>
 
 <img src="RedwoodCity_Bay_square_800px.jpg" alt="Christine Chen photo" width="90"/> Christine Y. Chen  <br/>
-<sub> (she/her), Postdoctoral Fellow, Division of Geological and Planetary Sciences, California Institute of Technology, quaternary geology and geochronology </sub>
+<sub> (she/her), Postdoctoral Fellow, Lawrence Livermore National Laboratories, quaternary geology and geochronology </sub>
 
 <img src="me_photo1_sq.jpg" alt="Harriet Lau photo" width="90"/> Harriet Lau <br/>
 <sub> (she/her), Assistant Professor, Earth and Planetary Science, UC Berkeley, global geodynamics </sub>
-
 
 <img src="wesley-02.jpg" alt="Wesley Wiggins photo" width="90"/> John Wesley Wiggins <br/>
 <sub> (he/him), Undergraduate Student (Class of 2021), Department of Geosciences, Princeton University, coastal science and oceanography </sub>
@@ -80,7 +79,7 @@ economic, and social values of the scientific community control the entire scien
  <sub> (he/him/they/them), PhD candidate, Earth & Planetary Sciences, Harvard University,  ice shelf rifting and seismology </sub>
  
 <img src="F5A493B3-1FE9-4D0B-8269-25201CA0901B.jpeg" alt="Ery Hughes photo" width="90"/> Ery Hughes <br/>
-<sub>  she/her, Postdoctoral Fellow, Division of Geological and Planetary Sciences, Caltech, isotope geochemistry and volcanology </sub>
+<sub>  she/her, Volcanic Fluid Geochemist, at Te Pū Ao | GNS Science, isotope geochemistry and volcanology </sub>
 
 <img src="Jacky1_sq-01.png" alt="Jacky Austermann photo" width="90"/> Jacky Austermann <br/>
 <sub> (she/her), Assistant Professor, Lamont-Doherty Earth Observatory, Columbia University, sea level change and geodynamics </sub>
