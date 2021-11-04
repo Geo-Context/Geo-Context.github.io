@@ -46,6 +46,9 @@ Ultimately, we hope this work ignites energy towards a reimagined curriculum in 
 * **Maori and Antarctica** <br/>
 <a href="GeoContext/Geocontext -Maori & Antarctica.pptx" download>PowerPoint Slides</a> <br/>
 <a href="GeoContext/Geocontext - Maori & Antarctica .pdf" download>Companion Document</a> <br/> <br/>
+* **Volcanology: Native Knowledge and Colonial Powers** <br/>
+<a href="GeoContext/GeoContext - Volcanology.pptx" download>PowerPoint Slides</a> <br/>
+<a href="GeoContext/GeoContext - Volcanology.pdf" download>Companion Document</a> <br/> <br/>
 
 You can cite these modules here: <a href="https://doi.org/10.6084/m9.figshare.14158457" target="_blank"> https://doi.org/10.6084/m9.figshare.14158457 </a> 
 <br/> 
