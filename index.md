@@ -43,7 +43,7 @@ Ultimately, we hope this work ignites energy towards a reimagined curriculum in 
 * **Land Grab Universities** <br/>
 <a href="GeoContext/GeoContext - Land Grab Universities.pptx" download>PowerPoint Slides</a> <br/>
 <a href="GeoContext/GeoContext - Land Grab Universities.pdf" download>Companion Document</a> <br/> <br/>
-* **Maori and Antarctica** <br/>
+* **The Maori and Antarctica** <br/>
 <a href="GeoContext/Geocontext -Maori & Antarctica.pptx" download>PowerPoint Slides</a> <br/>
 <a href="GeoContext/Geocontext - Maori & Antarctica .pdf" download>Companion Document</a> <br/> <br/>
 * **Volcanology: Native Knowledge and Colonial Powers** <br/>
