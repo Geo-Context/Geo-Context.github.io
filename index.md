@@ -100,7 +100,7 @@ Casey E. Brayton <br/>
 
 <img src="Marisa2.png" alt="Marisa Borreggine photo" width="90"/>
 Marisa Borreggine <br/>
-<sub>(she/they), PhD candidate, Earth & Planetary Sciences, Harvard University, paleoceanography and human migration </sub>
+<sub>(they/she), PhD candidate, Earth & Planetary Sciences, Harvard University, paleoceanography and human migration </sub>
 
 ## Get Involved!
 
