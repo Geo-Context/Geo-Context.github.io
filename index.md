@@ -81,8 +81,8 @@ economic, and social values of the scientific community control the entire scien
 <img src="wesley-02.jpg" alt="Wesley Wiggins photo" width="90"/> John Wesley Wiggins <br/>
 <sub> (he/him), Undergraduate Student (Class of 2021), Department of Geosciences, Princeton University, coastal science and oceanography </sub>
 
-<img src="seth_sq.jpg" alt="Seth Olinger photo" width="90"/> Seth Olinger <br/>
- <sub> (he/him/they/them), PhD candidate, Earth & Planetary Sciences, Harvard University,  ice shelf rifting and seismology </sub>
+<img src="prof_2_small.jpeg" alt="Stephanie Olinger photo" width="90"/> Stephanie Olinger <br/>
+ <sub> (she/her), PhD candidate, Earth & Planetary Sciences, Harvard University,  ice shelf rifting and seismology </sub>
  
 <img src="F5A493B3-1FE9-4D0B-8269-25201CA0901B.jpeg" alt="Ery Hughes photo" width="90"/> Ery Hughes <br/>
 <sub>  she/her, Volcanic Fluid Geochemist, at Te Pū Ao | GNS Science, isotope geochemistry and volcanology </sub>
@@ -98,9 +98,9 @@ Claire Jasper <br/>
 Casey E. Brayton <br/>
 <sub>(she/they),Graduate Student, Department of Earth and Environmental Sciences, Columbia University, Arctic coastal change and glaciology </sub>
 
-<img src="Marisa_headshotBnW_square.png" alt="Marisa Borreggine photo" width="90"/>
+<img src="Marisa2.png" alt="Marisa Borreggine photo" width="90"/>
 Marisa Borreggine <br/>
-<sub>(she/her), PhD candidate, Earth & Planetary Sciences, Harvard University, paleoceanography and human migration </sub>
+<sub>(she/they), PhD candidate, Earth & Planetary Sciences, Harvard University, paleoceanography and human migration </sub>
 
 ## Get Involved!
 
